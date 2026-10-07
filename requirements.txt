@@ -1,0 +1,5 @@
+robotframework==7.3.2
+robotframework-seleniumlibrary==6.7.1
+selenium==4.38.0
+python-dotenv==1.2.1
+groq==0.37.1
